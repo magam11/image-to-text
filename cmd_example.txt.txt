@@ -1,0 +1,3 @@
+tesseract <imagename> <outputname>
+
+"C:\Users\muraz\Desktop\imagToText\Tesseract-OCR\tesseract" "C:\Users\muraz\Desktop\imagToText\test1.jpg" "C:\Users\muraz\Desktop\imagToText\out"
